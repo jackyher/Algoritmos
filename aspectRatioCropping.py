@@ -1,5 +1,6 @@
 # Convierte imágenes en resoluciones con una relación de aspecto de 16:9 manteniendo la misma altura.
 
+# Impotamos libería para las funciones matemáticas
 import math
 
 def convert_to_16_9(x, y):
