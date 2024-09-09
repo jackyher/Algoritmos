@@ -12,5 +12,7 @@ def rango_de_citas(edad):
 
 # Solicitar la edad al usuario
 edad = int(input("Introduce tu edad: "))
+
+#Se muestra el resultado
 print(f"Tu rango de citas es: {rango_de_citas(edad)}")
 
