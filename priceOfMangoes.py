@@ -7,6 +7,8 @@ def mango(quantity, price):
     # Calcular el costo total multiplicando los mangos que se pagan por el precio por unidad
     total_cost = paid_mangoes * price
 
+    # Retorna un resultado
+
     return total_cost
 
 

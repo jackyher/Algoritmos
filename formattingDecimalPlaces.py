@@ -6,4 +6,6 @@ def redondear_a_dos_decimales(numero):
 
 # Solicitar el número al usuario
 numero = float(input("Introduce un número: "))
+
+#Se muestran resultados
 print(f"El número redondeado a dos decimales es: {redondear_a_dos_decimales(numero)}")

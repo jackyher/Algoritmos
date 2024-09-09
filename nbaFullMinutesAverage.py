@@ -17,5 +17,7 @@ mpg = float(input("Introduce los minutos por juego (mpg): "))
 
 # Llamar a la función y mostrar el resultado
 result = nba_extrap(ppg, mpg)
+
+# Se muestran los resultados
 print(f"Los puntos extrapolados por 48 minutos son: {result}")
 

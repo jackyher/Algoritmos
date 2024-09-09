@@ -1,5 +1,6 @@
 # Este programa calcula la cantidad de litros de agua que beberá un ciclista por hora
 
+#Importacion de libreria math
 import math
 
 def litres(time):
